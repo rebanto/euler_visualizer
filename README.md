@@ -29,3 +29,9 @@ This tool is perfect for students, teachers, or anyone wanting to **see numerica
 ---
 
 ## 🚀 Run the App using `pip install streamlit sympy matplotlib` and then `streamlit run euler_method.py`
+
+---
+
+## 🔮 Future Expansions
+- Make a dedicated and clean React-based framework
+- Re-factor the graph to be interactive
