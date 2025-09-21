@@ -1,4 +1,4 @@
-# 🧮 Euler's Method Visualizer
+# Euler's Method Visualizer
 
 ### A sleek, interactive Streamlit app for solving first-order differential equations using Euler’s Method.
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 While reviewing for the **AP Calculus** exam, I was practicing **Euler’s Method** by hand — calculating tangent slopes, plugging into formulas, and repeating. That’s when I thought:
 
@@ -18,20 +18,20 @@ This tool is perfect for students, teachers, or anyone wanting to **see numerica
 
 ---
 
-## ⚙️ Features
+## Features
 
-- 🧠 **Type any differential equation** using `x`, `y`, `sin`, `cos`, `exp`, `log`, etc.
-- 🎯 **Customizable initial conditions** and **step size**
-- 📈 **Live plot** of the approximated solution using Matplotlib
-- ✅ **No `eval`** used — safe, symbolic parsing with SymPy
-- 🎨 Streamlit-based UI with smooth, modern layout
-
----
-
-## 🚀 Run the App using `pip install streamlit sympy matplotlib` and then `streamlit run euler_method.py`
+- **Type any differential equation** using `x`, `y`, `sin`, `cos`, `exp`, `log`, etc.
+- **Customizable initial conditions** and **step size**
+- **Live plot** of the approximated solution using Matplotlib
+- **No `eval`** used — safe, symbolic parsing with SymPy
+- Streamlit-based UI with smooth, modern layout
 
 ---
 
-## 🔮 Future Expansions
+## Run the App using `pip install streamlit sympy matplotlib` and then `streamlit run euler_method.py`
+
+---
+
+## Future Expansions
 - Make a dedicated and clean React-based framework
 - Re-factor the graph to be interactive
